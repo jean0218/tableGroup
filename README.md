@@ -6,8 +6,8 @@ HTML代码：<div id="jstable"></div>
 
 JS调用示例：
 	var titleparams = [
-		{title: '记账时间', name: 'createdateonly'}, 
-		{title: '交易时间', name: 'trxdate'}, 
+    {title: '记账时间', name: 'createdateonly'}, 
+    {title: '交易时间', name: 'trxdate'}, 
 		{title: '商户订单号', name: 'merchantorderid'}, 
 		{title: '业务类型', name: 'desc'}, 
 		{title: '收入', name: 'income'}, 
